@@ -1,0 +1,11 @@
+.DS_Store
+.idea/
+../../hw1.logs
+../../batch-test.sh
+../../extract.py
+824-mrinput.txt
+batch-test.sh
+diff.out
+extract.py
+hw1.logs
+src/viewservice/log-TestBasic-10-parsed.txt
